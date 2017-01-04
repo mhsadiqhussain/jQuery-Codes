@@ -2,6 +2,6 @@
     "name": "msh/jquery-code",
     "description": "Frequently used jQuery Code",
     "require": {
-        "php": ">=1.0"
+        "jquery": ">=1.0"
     }
 }
