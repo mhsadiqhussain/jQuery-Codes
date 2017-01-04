@@ -2,6 +2,18 @@
     "name": "msh/jquery-code",
     "description": "Frequently used jQuery Code",
     "require": {
-        "jquery": ">=1.0"
+        "components/angular.js": "1.2.0"
+    },
+    "extra": {
+        "component": {
+          "name": "angular-resource",
+          "scripts": [
+            "angular-resource.js"
+          ],
+          "files": [
+            "dateTime.js",
+            "keyUp.js"
+          ]
+        }
     }
 }
