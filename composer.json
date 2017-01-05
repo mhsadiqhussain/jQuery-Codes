@@ -3,8 +3,7 @@
     "description": "Frequently used jQuery Code",
     "authors": [
         {
-            "name": "msh",
-            "email": "@gmail.com"
+            "name": "msh"
         }
     ],
     "minimum-stability": "stable",
