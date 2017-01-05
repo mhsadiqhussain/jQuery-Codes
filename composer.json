@@ -1,19 +1,10 @@
 {
     "name": "msh/jquery-code",
     "description": "Frequently used jQuery Code",
-    "require": {
-        "components/angular.js": "1.2.0"
-    },
-    "extra": {
-        "component": {
-          "name": "angular-resource",
-          "scripts": [
-            "angular-resource.js"
-          ],
-          "files": [
-            "dateTime.js",
-            "keyUp.js"
-          ]
+    "version": "1.7.2",
+        "type": "jquery",
+        "dist": {
+          "url": "http://code.jquery.com/jquery-1.7.2.js",
+          "type": "file"
         }
-    }
 }
